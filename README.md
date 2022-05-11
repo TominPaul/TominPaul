@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TominPaul
-- 👀 I’m interested in web app development
+- 👀 I’m a Web Developer
 - 🌱 I’m actively learning and working on React JS Framework
 - 💞️ I’m looking to collaborate on front end development with React JS
 - 📫 How to reach me => PH: (437) 339-4567, email: tominpaul123@gmail.com
