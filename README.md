@@ -23,8 +23,6 @@
 - 🌱 3+ Years of working in developing web applications
 - 💞️ I’m looking to collaborate on front end development with React JS
 
-<br />
-
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 <br />
