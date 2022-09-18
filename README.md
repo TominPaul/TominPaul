@@ -19,7 +19,7 @@
 </div>
 
 ## 💬 About Me:
-- 👀 I’m a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Canada.
+- 👀 I’m a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Canada.
 - 🌱 3+ Years of working in developing web applications
 - 💞️ I’m looking to collaborate on front end development with React JS
 
