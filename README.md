@@ -9,25 +9,34 @@
     </a>
     <a href="https://twitter.com/tomin_paul">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>    
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=TominPaul&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    # hey there, I'm Tomin!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <img src="https://komarev.com/ghpvc/?username=TominPaul&style=flat-square&color=blue" alt=""/>
 </div>
 
-## 💬 About Me:
-- 👀 I’m a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Canada.
-- 🌱 3+ Years of working in developing web applications
+### :raising_hand: About Me
+- 👀 I'm a passionate and experienced Software Developer living in Canada.
+- 🌱 5+ Years of working in developing web applications
 - 💞️ I’m looking to collaborate on front end development with React JS
+
+###### I'm dedicated to creating immersive and user-friendly experiences. My primary focus lies in front-end development, with a strong proficiency in React JS.
 
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-<br />
+### :hammer_and_wrench: Tools & Technologies:
 
-### :hammer_and_wrench: Languages and Tools :
+I'm well-versed in a variety of languages and tools, including:
+- Front-end: React, Redux, Material UI, Bootstrap, HTML5, CSS3, JavaScript
+- Back-end: Java, C#, Node.js
+- Databases: Oracle, MySQL
+- Version Control: Git
+- CI/CD: Jenkins
+- Others: Bash, RedHat
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -49,18 +58,32 @@
 
 <br />
 
-- 💼 any freelance work? do reach, [email](mailto:tominpaul123@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+### :computer: Projects and Contributions
+
+Throughout my journey, I've actively contributed to end-to-end project development, from requirements analysis to deployment. I've collaborated with Designers to distill user workflows into intuitive UI and robust business logic. My experience with RESTful APIs has allowed seamless integration between front-end and back-end systems. Additionally, I have worked with charting and mapping libraries to enrich data visualizations.
 
 <br />
 
-### :fire: My Stats :
+### :mailbox: Let's Connect
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TominPaul&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+Feel free to reach out for any freelance work or if you have any questions. You can contact me at [tominpaul123@gmail.com](mailto:tominpaul123@gmail.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TominPaul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+### :fire: GitHub Stats
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TominPaul&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TominPaul&layout=compact&theme=vision-friendly-dark)
 
 <!---
-TominPaul/TominPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TominPaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
